@@ -113,7 +113,7 @@
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
                                     <h4 class="text-white">Modelling</h4>
-                                    <p class="mb-0 text-white-50">I have a wide range of modelling experiences. I have used FARGO3D to assess planet migration in protoplanetary discs, CLOUDY to look at the elemental chemistry of accretion columns in T Tauri discs and RADMC3D to study complex organics around protostars (see below for publications). On the right I show the results from dusty hydrodynamical simulations of FARGO that I then made their simulated observations using CASA.</p>
+                                    <p class="mb-0 text-white-50">I have a wide range of modelling experiences. I have used FARGO3D to assess planet migration in protoplanetary discs, CLOUDY to look at the elemental chemistry of accretion columns in T Tauri discs and RADMC3D to study complex organics around protostars (see below for publications). Here I show the results from dusty hydrodynamical simulations of FARGO that I then made their simulated observations using CASA.</p>
                                     <hr class="d-none d-lg-block mb-0 mr-0" />
                                 </div>
                             </div>

@@ -10280,7 +10280,7 @@ body {
 }
 
 .about-section {
-  padding-top: 10rem;
+  padding-top: 5rem;
   background: linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);
 }
 .about-section p {
@@ -10290,7 +10290,7 @@ body {
 
 
 .projects-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .projects-section .featured-text {
   padding: 2rem;
@@ -10319,7 +10319,7 @@ body {
 
 
 .outreach-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .outreach-section .featured-text {
   padding: 2rem;
@@ -10348,7 +10348,7 @@ body {
 
 
 .cv-section {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 .cv-section .featured-text {
   padding: 2rem;
